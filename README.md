@@ -4,7 +4,7 @@
 
 **Objectif**: Maîtriser les composants Bootstrap en créant une interface de boutique en ligne responsive et intuitive.
 
-**Description**: Les étudiants devront créer une interface pour une boutique fictive vendant, par exemple, des articles de mode, des gadgets technologiques ou des livres. Le site doit contenir une page d'accueil, une page de produits, une page de détail de produit et une page de contact.
+**Description**: Créer une interface pour une boutique fictive vendant, par exemple, des articles de mode, des gadgets technologiques ou des livres. Le site doit contenir une page d'accueil, une page de produits, une page de détail de produit et une page de contact.
 
 ---
 
@@ -39,7 +39,7 @@
     - Ajoutez un footer sur chaque page avec des liens utiles, une brève description de la boutique, et éventuellement des liens vers les réseaux sociaux.
 
 8. **Responsivité**:
-    - Testez votre site sur différents appareils (ordinateur, tablette, smartphone). Utilisez les utilitaires de Bootstrap pour résoudre les problèmes de mise en page.
+    - Testez votre site sur différents appareils (ordinateur, tablette, smartphone).
 
 
 ---
