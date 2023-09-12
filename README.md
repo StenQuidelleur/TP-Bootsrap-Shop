@@ -1,9 +1,5 @@
 # TP-Bootsrap-Shop
 
-Bien sûr! Voici un autre TP (Travaux Pratiques) pour des étudiants, cette fois-ci axé sur la création d'une boutique en ligne simplifiée à l'aide de Bootstrap:
-
----
-
 ### **TP : Création d'une Boutique en Ligne Simplifiée avec Bootstrap**
 
 **Objectif**: Maîtriser les composants Bootstrap en créant une interface de boutique en ligne responsive et intuitive.
